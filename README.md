@@ -1,4 +1,4 @@
-# Lab_4_FISHMARKET
+Lab_4
 
 About Dataset 
 Here's a description of each column in the dataset:
@@ -17,6 +17,3 @@ Height: This column represents the height of the fish. It is a numerical variabl
 
 Width: This column represents the width of the fish. Like the other numerical variables, it is also typically measured in centimetres.
 
-![Screenshot from 2024-03-17 18-15-30]
-
-![Screenshot from 2024-03-17 17-49-37]
